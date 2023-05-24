@@ -116,6 +116,7 @@ ETHERSCAN_API_KEY=<YOUR_KEY> # (https://goerli.etherscan.io/)
 
 UPDATE_FRONT_END=true # (true: dynamically update ABI and contract address frontend)
 ```
+
 </details>
   
 ## :cowboy_hat_face: Contributors
